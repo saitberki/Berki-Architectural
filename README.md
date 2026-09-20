@@ -42,5 +42,5 @@
   <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Pencere%20Detay%C4%B1-5.png?raw=true" alt="Pencere 5" width="180px" height="254px">
   
 <head><script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=6a6f55f1419b02b83ea956c9&product=sticky-share-buttons' async='async'></script></head>
-
+<a href="https://www.freecounterstat.com" title="website hit counter"><img src="https://counter11.optistats.ovh/private/freecounterstat.php?c=2x5dulkle1g698z3jtzw4xwr67c3n64c" border="0" title="website hit counter" alt="website hit counter"></a>
 
