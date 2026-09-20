@@ -19,10 +19,11 @@
   <img src="https://github.com/saitberki/Berki-Architectural/blob/main/3-Mutfak%20%C3%87izimi.jpg?raw=true" alt="Plan Çizimi" width="209px" height="295px">
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/4-Banyo%20%C3%87izimi.jpg?raw=true" target="_blank">
   <img src="https://github.com/saitberki/Berki-Architectural/blob/main/4-Banyo%20%C3%87izimi.jpg?raw=true" alt="Plan Çizimi" width="209px" height="295px">
+  <br>
 <a href="" target="_blank">
-  <img src="" alt="Plan Çizimi" width="209px" height="295px">
+  <img src="" alt="Plan Çizimi" width="282px" height="199px">
 <a href="" target="_blank">
-  <img src="" alt="Plan Çizimi" width="209px" height="295px">
+  <img src="" alt="Plan Çizimi" width="282px" height="199px">
 
 
   
