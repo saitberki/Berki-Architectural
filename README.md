@@ -1,4 +1,4 @@
-<h1>Architectural Drawing Samples Page</h1>
+<h1>Drawing Samples Page</h1>
 - Drawing of a Single-Story Building - <u><b><i>21.09.2026 - saitberki</i></b></u>
 <br>
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/Tek%20Katl%C4%B1%20Bina%20Plan%C4%B1%20%C3%87izimi-Model.png?raw=true" target="_blank">
