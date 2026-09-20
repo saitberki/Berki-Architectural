@@ -41,6 +41,6 @@
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/Pencere%20Detay%C4%B1-5.png?raw=true" target="_blank">
   <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Pencere%20Detay%C4%B1-5.png?raw=true" alt="Pencere 5" width="180px" height="254px">
   
-
+<head><script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=6a6f55f1419b02b83ea956c9&product=sticky-share-buttons' async='async'></script></head>
 
 
