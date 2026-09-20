@@ -26,8 +26,8 @@
   <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Kap%C4%B1%20Detay%C4%B1-1.png?raw=true" alt="Kapı 1" width="180px" height="254px">
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/Kap%C4%B1%20Detay%C4%B1-2.png?raw=true" target="_blank">
   <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Kap%C4%B1%20Detay%C4%B1-2.png?raw=true" alt="Kapı 2" width="180px" height="254px">
-<a href="" target="_blank">
-  <img src="" alt="Kapı 3" width="180px" height="254px">
+<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Kap%C4%B1%20Detay%C4%B1-3.png?raw=true" target="_blank">
+  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Kap%C4%B1%20Detay%C4%B1-3.png?raw=true" alt="Kapı 3" width="180px" height="254px">
   
 <a href="" target="_blank">
   <img src="" alt="Pencere 1" width="180px" height="254px">
