@@ -22,7 +22,23 @@
   <img src="https://github.com/saitberki/Berki-Architectural/blob/main/5-Arakat%20Daire%20%C3%87izimi.jpg?raw=true" alt="Genel Çizimi" width="180px" height="127px">
 <br>
 - Door and Window Details for the Intermediate Floor - ( Ara Kata Ait Kapı ve Pencere Detayları ) - <u><b><i>24.09.2024 - saitberki</i></b></u>
-
+<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Kap%C4%B1%20Detay%C4%B1-1.png?raw=true" target="_blank">
+  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Kap%C4%B1%20Detay%C4%B1-1.png?raw=true" alt="Kapı 1" width="180px" height="254px">
+<a href="" target="_blank">
+  <img src="" alt="Kapı 2" width="180px" height="254px">
+<a href="" target="_blank">
+  <img src="" alt="Kapı 3" width="180px" height="254px">
+  
+<a href="" target="_blank">
+  <img src="" alt="Pencere 1" width="180px" height="254px">
+<a href="" target="_blank">
+  <img src="" alt="Pencere 2" width="180px" height="254px">
+<a href="" target="_blank">
+  <img src="" alt="Pencere 3" width="180px" height="254px">
+<a href="" target="_blank">
+  <img src="" alt="Pencere 4" width="180px" height="254px">
+<a href="" target="_blank">
+  <img src="" alt="Pencere 5" width="180px" height="254px">
   
 
 
