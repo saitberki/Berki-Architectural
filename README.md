@@ -20,7 +20,8 @@
   <img src="https://github.com/saitberki/Berki-Architectural/blob/main/2-Salon%20%C3%87izimi.jpg?raw=true" alt="Salon Çizimi" width="200px" height="141px">
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/5-Arakat%20Daire%20%C3%87izimi.jpg?raw=true" target="_blank">
   <img src="https://github.com/saitberki/Berki-Architectural/blob/main/5-Arakat%20Daire%20%C3%87izimi.jpg?raw=true" alt="Genel Çizimi" width="180px" height="127px">
-
+<br>
+- Door and Window Details for the Intermediate Floor - ( Ara Kata Ait Kapı ve Pencere Detayları ) - <u><b><i>24.09.2024 - saitberki</i></b></u>
 
   
 
