@@ -7,7 +7,7 @@
   <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Tek%20Katl%C4%B1%20Bina%20%C3%87izimi%20A-A-Model.png?raw=true" alt="A-A Kesiti Çizimi" width="282px" height="199px">
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/Tek%20Katl%C4%B1%20Bina%20%C3%87izimi%20B-B-Model.png?raw=true" target="_blank">
   <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Tek%20Katl%C4%B1%20Bina%20%C3%87izimi%20B-B-Model.png?raw=true" alt="B-B Kesiti Çizimi" width="282px" height="199px">
-<br>
+<hr>
 - Drawing of an Intermediate Floor Apartment - <u><b><i>12.12.2023 - saitberki</i></b></u>
 <br>
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/1-Oda%20%C3%87izimi.jpg?raw=true" target="_blank">
@@ -20,7 +20,7 @@
   <img src="https://github.com/saitberki/Berki-Architectural/blob/main/2-Salon%20%C3%87izimi.jpg?raw=true" alt="Salon Çizimi" width="200px" height="141px">
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/5-Arakat%20Daire%20%C3%87izimi.jpg?raw=true" target="_blank">
   <img src="https://github.com/saitberki/Berki-Architectural/blob/main/5-Arakat%20Daire%20%C3%87izimi.jpg?raw=true" alt="Genel Çizimi" width="180px" height="127px">
-<br>
+<hr>
 - Door and Window Details for the Intermediate Floor - <u><b><i>24.09.2024 - saitberki</i></b></u>
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/Kap%C4%B1%20Detay%C4%B1-1.png?raw=true" target="_blank">
   <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Kap%C4%B1%20Detay%C4%B1-1.png?raw=true" alt="Kapı 1" width="180px" height="254px">
