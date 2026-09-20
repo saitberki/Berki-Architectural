@@ -10,7 +10,7 @@
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/Tek%20Katl%C4%B1%20Bina%20%C3%87izimi%20B-B-Model.png?raw=true" target="_blank">
   <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Tek%20Katl%C4%B1%20Bina%20%C3%87izimi%20B-B-Model.png?raw=true" alt="B-B Kesiti Çizimi" width="282px" height="199px">
 </a>
-
+<br>
 - Drawing of an Intermediate Floor Apartment - ( Ara Kat Daire Çizimi ) - <u><b><i>12.12.2023 - saitberki</i></b></u>
 <br>
 
