@@ -13,8 +13,8 @@
 <br>
 - Drawing of an Intermediate Floor Apartment - ( Ara Kat Daire Çizimi ) - <u><b><i>12.12.2023 - saitberki</i></b></u>
 <br>
-<a href="" target="_blank">
-  <img src="" alt="Plan Çizimi" width="209px" height="295px">
+<a href="https://github.com/saitberki/Berki-Architectural/blob/main/1-Oda%20%C3%87izimi.jpg?raw=true" target="_blank">
+  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/1-Oda%20%C3%87izimi.jpg?raw=true" alt="Plan Çizimi" width="209px" height="295px">
 <a href="" target="_blank">
   <img src="" alt="Plan Çizimi" width="209px" height="295px">
 <a href="" target="_blank">
