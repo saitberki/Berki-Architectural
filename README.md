@@ -21,9 +21,9 @@
   <img src="https://github.com/saitberki/Berki-Architectural/blob/main/4-Banyo%20%C3%87izimi.jpg?raw=true" alt="Banyo Çizimi" width="209px" height="295px">
   <br>
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/2-Salon%20%C3%87izimi.jpg?raw=true" target="_blank">
-  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/2-Salon%20%C3%87izimi.jpg?raw=true" alt="Salon Çizimi" width="282px" height="199px">
+  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/2-Salon%20%C3%87izimi.jpg?raw=true" alt="Salon Çizimi" width="223px" height="157px">
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/5-Arakat%20Daire%20%C3%87izimi.jpg?raw=true" target="_blank">
-  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/5-Arakat%20Daire%20%C3%87izimi.jpg?raw=true" alt="Genel Çizimi" width="282px" height="199px">
+  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/5-Arakat%20Daire%20%C3%87izimi.jpg?raw=true" alt="Genel Çizimi" width="223px" height="157px">
 
 
   
