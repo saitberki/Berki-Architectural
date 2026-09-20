@@ -31,8 +31,8 @@
   
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/Pencere%20Detay%C4%B1-1.png?raw=true" target="_blank">
   <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Pencere%20Detay%C4%B1-1.png?raw=true" alt="Pencere 1" width="180px" height="254px">
-<a href="" target="_blank">
-  <img src="" alt="Pencere 2" width="180px" height="254px">
+<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Pencere%20Detay%C4%B1-2.png?raw=true" target="_blank">
+  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Pencere%20Detay%C4%B1-2.png?raw=true" alt="Pencere 2" width="180px" height="254px">
 <a href="" target="_blank">
   <img src="" alt="Pencere 3" width="180px" height="254px">
 <a href="" target="_blank">
