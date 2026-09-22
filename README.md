@@ -3,8 +3,8 @@
 <br>
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/1-Tek%20Katl%C4%B1%20Bina%20Plan%20%C3%87izimi.png?raw=true" target="_blank">
   <img src="https://github.com/saitberki/Berki-Architectural/blob/main/1-Tek%20Katl%C4%B1%20Bina%20Plan%20%C3%87izimi.png?raw=true" alt="Plan Çizimi" width="282px" height="199px">
-<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Tek%20Katl%C4%B1%20Bina%20%C3%87izimi%20A-A-Model.png?raw=true" target="_blank">
-  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Tek%20Katl%C4%B1%20Bina%20%C3%87izimi%20A-A-Model.png?raw=true" alt="A-A Kesiti Çizimi" width="282px" height="199px">
+<a href="https://github.com/saitberki/Berki-Architectural/blob/main/2-Tek%20Katl%C4%B1%20Bina%20A-A%20Kesiti%20%C3%87izimi.png?raw=true" target="_blank">
+  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/2-Tek%20Katl%C4%B1%20Bina%20A-A%20Kesiti%20%C3%87izimi.png?raw=true" alt="A-A Kesiti Çizimi" width="282px" height="199px">
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/Tek%20Katl%C4%B1%20Bina%20%C3%87izimi%20B-B-Model.png?raw=true" target="_blank">
   <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Tek%20Katl%C4%B1%20Bina%20%C3%87izimi%20B-B-Model.png?raw=true" alt="B-B Kesiti Çizimi" width="282px" height="199px">
   
