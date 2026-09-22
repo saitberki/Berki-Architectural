@@ -1,8 +1,8 @@
 <h1>Drawing Samples Page</h1>
 - Drawing of a Single-Story Building - <u><b><i>21.09.2026 - saitberki</i></b></u>
 <br>
-<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Tek%20Katl%C4%B1%20Bina%20Plan%C4%B1%20%C3%87izimi-Model.png?raw=true" target="_blank">
-  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Tek%20Katl%C4%B1%20Bina%20Plan%C4%B1%20%C3%87izimi-Model.png?raw=true" alt="Plan Çizimi" width="282px" height="199px">
+<a href="https://github.com/saitberki/Berki-Architectural/blob/main/1-Tek%20Katl%C4%B1%20Bina%20Plan%20%C3%87izimi.png?raw=true" target="_blank">
+  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/1-Tek%20Katl%C4%B1%20Bina%20Plan%20%C3%87izimi.png?raw=true" alt="Plan Çizimi" width="282px" height="199px">
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/Tek%20Katl%C4%B1%20Bina%20%C3%87izimi%20A-A-Model.png?raw=true" target="_blank">
   <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Tek%20Katl%C4%B1%20Bina%20%C3%87izimi%20A-A-Model.png?raw=true" alt="A-A Kesiti Çizimi" width="282px" height="199px">
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/Tek%20Katl%C4%B1%20Bina%20%C3%87izimi%20B-B-Model.png?raw=true" target="_blank">
