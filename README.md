@@ -7,8 +7,8 @@
   <img src="https://github.com/saitberki/Berki-Architectural/blob/main/2-Tek%20Katl%C4%B1%20Bina%20A-A%20Kesiti%20%C3%87izimi.png?raw=true" alt="A-A Kesiti Çizimi" width="282px" height="199px">
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/3-Tek%20Katl%C4%B1%20Bina%20B-B%20Kesiti%20%C3%87izimi.png?raw=true" target="_blank">
   <img src="https://github.com/saitberki/Berki-Architectural/blob/main/3-Tek%20Katl%C4%B1%20Bina%20B-B%20Kesiti%20%C3%87izimi.png?raw=true" alt="B-B Kesiti Çizimi" width="282px" height="199px">
-<a href="" target="_blank">
-  <img src="" alt="Kuzey Cephesi Çizimi" width="282px" height="199px">
+<a href="https://github.com/saitberki/Berki-Architectural/blob/main/4-Tek%20Katl%C4%B1%20Bina%20Kuzey%20Cephesi%20%C3%87izimi.png?raw=true" target="_blank">
+  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/4-Tek%20Katl%C4%B1%20Bina%20Kuzey%20Cephesi%20%C3%87izimi.png?raw=true" alt="Kuzey Cephesi Çizimi" width="282px" height="199px">
 
 - Drawing of an Intermediate Floor Apartment - <u><b><i>12.12.2023 - saitberki</i></b></u>
 <br>
