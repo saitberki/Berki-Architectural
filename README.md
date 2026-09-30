@@ -1,5 +1,5 @@
 <h1>Drawing Samples Page</h1>
-- <span style="background-color: black;"><font color="red">Drawing of a Single-Story Building - <u><b><i>21.09.2026 - saitberki</i></b></u> </font></span>
+- <span style="background-color: black;"><font color="white">Drawing of a Single-Story Building - <u><b><i>21.09.2026 - saitberki</i></b></u> </font></span>
 - Examples of Architectural Technical Drawings
 - 1xFloor, 4xSection, 4xFront, 1/50 Scale, <u><b><i>Autocad</i></b></u>
 <br><br>
