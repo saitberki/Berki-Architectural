@@ -23,7 +23,7 @@
  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/8-G%C3%BCney%20Cephesi.png?raw=true" alt="Güney Cephesi Çizimi" width="182px" height="128px">
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/9-Do%C4%9Fu%20Cephesi.png?raw=true" target="_blank">
  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/9-Do%C4%9Fu%20Cephesi.png?raw=true" alt="Doğu Cephesi Çizimi" width="182px" height="128px"> 
-- Drawing of an Intermediate Floor Apartment - <u><b><i>12.12.2023 - saitberki</i></b></u>
+- <span style="background-color: black;"><font color="white">Drawing of an Intermediate Floor Apartment - <u><b><i>12.12.2023 - saitberki</i></b></u> </font></span>
 <br>
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/1-Oda%20%C3%87izimi.jpg?raw=true" target="_blank">
   <img src="https://github.com/saitberki/Berki-Architectural/blob/main/1-Oda%20%C3%87izimi.jpg?raw=true" alt="Oda Çizimi" width="180px" height="254px">
@@ -36,8 +36,7 @@
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/5-Arakat%20Daire%20%C3%87izimi.jpg?raw=true" target="_blank">
   <img src="https://github.com/saitberki/Berki-Architectural/blob/main/5-Arakat%20Daire%20%C3%87izimi.jpg?raw=true" alt="Salon Çizimi" width="180px" height="121px">
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/5-Arakat%20Daire%20%C3%87izimi.jpg?raw=true" target="_blank">
-
-- Door and Window Details for the Intermediate Floor - <u><b><i>24.09.2024 - saitberki</i></b></u>
+- <span style="background-color: black;"><font color="white">Door and Window Details for the Intermediate Floor - <u><b><i>24.09.2024 - saitberki</i></b></u> </font></span>
   <br>
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/Kap%C4%B1%20Detay%C4%B1-1.png?raw=true" target="_blank">
   <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Kap%C4%B1%20Detay%C4%B1-1.png?raw=true" alt="Kapı 1" width="180px" height="254px">
