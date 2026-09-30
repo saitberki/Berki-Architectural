@@ -19,8 +19,8 @@
  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/7-Bat%C4%B1%20Cephesi.png?raw=true" alt="Batı Cephesi Çizimi" width="182px" height="128px">
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/8-G%C3%BCney%20Cephesi.png?raw=true" target="_blank">
  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/8-G%C3%BCney%20Cephesi.png?raw=true" alt="Güney Cephesi Çizimi" width="182px" height="128px">
-<a href="https://github.com/saitberki/Berki-Architectural/blob/main/5-D-D%20Kesiti.png?raw=true" target="_blank">
- <img src="https://github.com/saitberki/Berki-Architectural/blob/main/5-D-D%20Kesiti.png?raw=true" alt="Doğu Cephesi Çizimi" width="182px" height="128px"> 
+<a href="https://github.com/saitberki/Berki-Architectural/blob/main/9-Do%C4%9Fu%20Cephesi.png?raw=true" target="_blank">
+ <img src="https://github.com/saitberki/Berki-Architectural/blob/main/9-Do%C4%9Fu%20Cephesi.png?raw=true" alt="Doğu Cephesi Çizimi" width="182px" height="128px"> 
 
 - Drawing of an Intermediate Floor Apartment - <u><b><i>12.12.2023 - saitberki</i></b></u>
 <br>
