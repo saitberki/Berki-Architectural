@@ -1,6 +1,6 @@
 <h1>Drawing Samples Page</h1>
 - <span style="background-color: black;"><font color="white">Drawing of a Single-Story Building - <u><b><i>21.09.2026 - saitberki</i></b></u> </font></span>
-- <span style="background-color: black;"><font color="white">Examples of Architectural Technical Drawings</i></b></u> </font></span>
+- <span style="background-color: black;"><font color="white">Examples of Architectural Technical Drawings </font></span>
 - <span style="background-color: black;"><font color="white">1xFloor, 4xSection, 4xFront, 1/50 Scale, <u><b><i>Autocad</i></b></u> </font></span>
 <br><br>
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/1-Plan.png?raw=true" target="_blank">
