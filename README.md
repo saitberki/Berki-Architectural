@@ -1,12 +1,15 @@
 <h1>Drawing Samples Page</h1>
 - Drawing of a Single-Story Building - <u><b><i>21.09.2026 - saitberki</i></b></u>
 <br>
-<a href="https://github.com/saitberki/Berki-Architectural/blob/main/1-Tek%20Katl%C4%B1%20Bina%20Plan%20%C3%87izimi.png?raw=true" target="_blank">
-  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/1-Tek%20Katl%C4%B1%20Bina%20Plan%20%C3%87izimi.png?raw=true" alt="Plan Çizimi" width="282px" height="199px">
+<a href="https://github.com/saitberki/Berki-Architectural/blob/main/1-Plan.png?raw=true" target="_blank">
+ <img src="https://github.com/saitberki/Berki-Architectural/blob/main/1-Plan.png?raw=true" alt="Plan Çizimi" width="282px" height="199px">
+  
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/2-Tek%20Katl%C4%B1%20Bina%20A-A%20Kesiti%20%C3%87izimi.png?raw=true" target="_blank">
   <img src="https://github.com/saitberki/Berki-Architectural/blob/main/2-Tek%20Katl%C4%B1%20Bina%20A-A%20Kesiti%20%C3%87izimi.png?raw=true" alt="A-A Kesiti Çizimi" width="282px" height="199px">
+  
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/3-Tek%20Katl%C4%B1%20Bina%20B-B%20Kesiti%20%C3%87izimi.png?raw=true" target="_blank">
   <img src="https://github.com/saitberki/Berki-Architectural/blob/main/3-Tek%20Katl%C4%B1%20Bina%20B-B%20Kesiti%20%C3%87izimi.png?raw=true" alt="B-B Kesiti Çizimi" width="282px" height="199px">
+  
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/4-Tek%20Katl%C4%B1%20Bina%20Kuzey%20Cephesi%20%C3%87izimi.png?raw=true" target="_blank">
   <img src="https://github.com/saitberki/Berki-Architectural/blob/main/4-Tek%20Katl%C4%B1%20Bina%20Kuzey%20Cephesi%20%C3%87izimi.png?raw=true" alt="Kuzey Cephesi Çizimi" width="282px" height="199px">
 
