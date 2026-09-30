@@ -1,8 +1,7 @@
 <h1>Drawing Samples Page</h1>
 - Drawing of a Single-Story Building - <u><b><i>21.09.2026 - saitberki</i></b></u>
 - Examples of Architectural Technical Drawings
-- 1-Floor, 4-Section, 4-Front
-- 1/50 Scale, <u><b><i>Autocad</i></b></u>
+- 1-Floor, 4-Section, 4-Front, 1/50 Scale, <u><b><i>Autocad</i></b></u>
 <br><br>
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/1-Plan.png?raw=true" target="_blank">
  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/1-Plan.png?raw=true" alt="Plan Çizimi" width="182px" height="128px">
