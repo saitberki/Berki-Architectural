@@ -15,8 +15,8 @@
 <br>
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/6-%20Kuzey%20Cephesi.png?raw=true" target="_blank">
  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/6-%20Kuzey%20Cephesi.png?raw=true" alt="Kuzey Cephesi Çizimi" width="182px" height="128px">
-<a href="https://github.com/saitberki/Berki-Architectural/blob/main/3-B-B%20Kesiti.png?raw=true" target="_blank">
- <img src="https://github.com/saitberki/Berki-Architectural/blob/main/3-B-B%20Kesiti.png?raw=true" alt="Batı Cephesi Çizimi" width="182px" height="128px">
+<a href="https://github.com/saitberki/Berki-Architectural/blob/main/7-Bat%C4%B1%20Cephesi.png?raw=true" target="_blank">
+ <img src="https://github.com/saitberki/Berki-Architectural/blob/main/7-Bat%C4%B1%20Cephesi.png?raw=true" alt="Batı Cephesi Çizimi" width="182px" height="128px">
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/4-C-C%20Kesiti.png?raw=true" target="_blank">
  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/4-C-C%20Kesiti.png?raw=true" alt="Güney Cephesi Çizimi" width="182px" height="128px">
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/5-D-D%20Kesiti.png?raw=true" target="_blank">
