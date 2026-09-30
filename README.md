@@ -3,7 +3,7 @@
 <br>
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/1-Plan.png?raw=true" target="_blank">
  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/1-Plan.png?raw=true" alt="Plan Çizimi" width="282px" height="199px">
-  
+  <br>
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/2-A-A%20Kesiti.png?raw=true" target="_blank">
   <img src="https://github.com/saitberki/Berki-Architectural/blob/main/2-A-A%20Kesiti.png?raw=true" alt="A-A Kesiti Çizimi" width="282px" height="199px">
   
