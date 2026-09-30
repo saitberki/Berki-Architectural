@@ -5,13 +5,13 @@
  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/1-Plan.png?raw=true" alt="Plan Çizimi" width="282px" height="199px">
   <br>
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/2-A-A%20Kesiti.png?raw=true" target="_blank">
-  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/2-A-A%20Kesiti.png?raw=true" alt="A-A Kesiti Çizimi" width="282px" height="199px">
+ <img src="https://github.com/saitberki/Berki-Architectural/blob/main/2-A-A%20Kesiti.png?raw=true" alt="A-A Kesiti Çizimi" width="282px" height="199px">
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/3-B-B%20Kesiti.png?raw=true" target="_blank">
-  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/3-B-B%20Kesiti.png?raw=true" alt="B-B Kesiti Çizimi" width="282px" height="199px">
+ <img src="https://github.com/saitberki/Berki-Architectural/blob/main/3-B-B%20Kesiti.png?raw=true" alt="B-B Kesiti Çizimi" width="282px" height="199px">
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/4-C-C%20Kesiti.png?raw=true" target="_blank">
-  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/4-C-C%20Kesiti.png?raw=true" alt="C-C Kesiti Çizimi" width="282px" height="199px">
+ <img src="https://github.com/saitberki/Berki-Architectural/blob/main/4-C-C%20Kesiti.png?raw=true" alt="C-C Kesiti Çizimi" width="282px" height="199px">
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/5-D-D%20Kesiti.png?raw=true" target="_blank">
-  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/5-D-D%20Kesiti.png?raw=true" alt="D-D Kesiti Çizimi" width="282px" height="199px">
+ <img src="https://github.com/saitberki/Berki-Architectural/blob/main/5-D-D%20Kesiti.png?raw=true" alt="D-D Kesiti Çizimi" width="282px" height="199px">
 
 - Drawing of an Intermediate Floor Apartment - <u><b><i>12.12.2023 - saitberki</i></b></u>
 <br>
