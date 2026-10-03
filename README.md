@@ -25,6 +25,7 @@
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/9-Do%C4%9Fu%20Cephesi.png?raw=true" target="_blank">
  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/9-Do%C4%9Fu%20Cephesi.png?raw=true" alt="Doğu Cephesi Çizimi" width="182px" height="128px"> 
 - <span style="background-color: black;"><font color="white">Drawing of an Intermediate Floor Apartment - <u><b><i>12.12.2023 - saitberki</i></b></u> </font></span>
+- <span style="background-color: black;"><font color="white">Examples of Interior Design Drawings </font></span>
 <br>
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/1-Oda%20%C3%87izimi.jpg?raw=true" target="_blank">
   <img src="https://github.com/saitberki/Berki-Architectural/blob/main/1-Oda%20%C3%87izimi.jpg?raw=true" alt="Oda Çizimi" width="180px" height="254px">
