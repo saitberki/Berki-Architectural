@@ -1,4 +1,5 @@
-<h1>#Drawing Samples Page</h1><h3>(Örnek Çizim Sayfası)</h3>
+<h1>#Drawing Samples Page - (Çizim Örnekleri Sayfası)</h1>
+<h2>Tek Katlı Münferit Bina Çizimi</h2>
 - <span style="background-color: black;"><font color="white">Drawing of a Single-Story Building - <u><b><i>21.09.2026 - saitberki</i></b></u> </font></span>
 - <span style="background-color: black;"><font color="white">Examples of Architectural Technical Drawings </font></span>
 - <span style="background-color: black;"><font color="white">1xFloor, 4xSection, 4xFront, 1/50 Scale, <u><b><i>Autocad</i></b></u> </font></span>
