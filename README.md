@@ -57,7 +57,7 @@
   
 <head><script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=6a6f55f1419b02b83ea956c9&product=sticky-share-buttons' async='async'></script></head>
 <hr>
-<h3>CONTACT</h3>
+<h5>#CONTACT</h5>
 - <a href="saitberkey@gmail.com" target="_blank">E-Mail</a>
 - <a href="https://t.me/saitberki" target="_blank">Telegram</a>
 <center>
