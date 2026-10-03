@@ -40,8 +40,12 @@
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/5-Arakat%20Daire%20%C3%87izimi.jpg?raw=true" target="_blank">
   <img src="https://github.com/saitberki/Berki-Architectural/blob/main/5-Arakat%20Daire%20%C3%87izimi.jpg?raw=true" alt="Salon Çizimi" width="180px" height="121px">
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/5-Arakat%20Daire%20%C3%87izimi.jpg?raw=true" target="_blank">
-- <span style="background-color: black;"><font color="white">Door and Window Details for the Intermediate Floor - <u><b><i>24.09.2024 - saitberki</i></b></u> </font></span>
-  <br>
+<br>
+ <h2># Deta Çizim Örnekleri</h2>
+ - <span style="background-color: black;"><font color="white">Door and Window Details for the Intermediate Floor - <u><b><i>24.09.2024 - saitberki</i></b></u> </font></span>
+ - <span style="background-color: black;"><font color="white">Detailed Technical Drawing Examples </font></span>
+ - <span style="background-color: black;"><font color="white">1xSteel Entrance Door, 2xAmerican Door, 5xPVC Modern Window, 1/20 Scale, <u><b><i>Autocad</i></b></u> </font></span>
+ <br>
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/Kap%C4%B1%20Detay%C4%B1-1.png?raw=true" target="_blank">
   <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Kap%C4%B1%20Detay%C4%B1-1.png?raw=true" alt="Kapı 1" width="180px" height="254px">
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/Kap%C4%B1%20Detay%C4%B1-2.png?raw=true" target="_blank">
