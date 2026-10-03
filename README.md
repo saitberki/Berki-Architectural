@@ -1,5 +1,5 @@
-<h1>#Drawing Samples Page - (Çizim Örnekleri Sayfası)</h1>
-<h2>Tek Katlı Münferit Bina Çizimi</h2>
+<h1>Drawing Samples Page - (Çizim Örnekleri Sayfası)</h1>
+<h2># Tek Katlı Münferit Bina Çizimi</h2>
 - <span style="background-color: black;"><font color="white">Drawing of a Single-Story Building - <u><b><i>21.09.2026 - saitberki</i></b></u> </font></span>
 - <span style="background-color: black;"><font color="white">Examples of Architectural Technical Drawings </font></span>
 - <span style="background-color: black;"><font color="white">1xFloor, 4xSection, 4xFront, 1/50 Scale, <u><b><i>Autocad</i></b></u> </font></span>
@@ -24,7 +24,7 @@
  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/8-G%C3%BCney%20Cephesi.png?raw=true" alt="Güney Cephesi Çizimi" width="182px" height="128px">
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/9-Do%C4%9Fu%20Cephesi.png?raw=true" target="_blank">
  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/9-Do%C4%9Fu%20Cephesi.png?raw=true" alt="Doğu Cephesi Çizimi" width="182px" height="128px">
-<h2>Arakat Daire Çizimi</h2>
+<h2># Arakat Daire Çizimi</h2>
 - <span style="background-color: black;"><font color="white">Drawing of an Intermediate Floor Apartment - <u><b><i>12.12.2023 - saitberki</i></b></u> </font></span>
 - <span style="background-color: black;"><font color="white">Examples of Interior Design Drawings </font></span>
 - <span style="background-color: black;"><font color="white">1xSalon, 2xRooms, 1xKitchen, 1xToilet, 1xBalcony, 1/50 Scale, <u><b><i>Autocad</i></b></u> </font></span>
