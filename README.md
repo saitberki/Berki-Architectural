@@ -58,8 +58,8 @@
 <head><script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=6a6f55f1419b02b83ea956c9&product=sticky-share-buttons' async='async'></script></head>
 <hr>
 <h5>#CONTACT</h5>
-- <a href="saitberkey@gmail.com" target="_blank">E-Mail</a>
-- <a href="https://t.me/saitberki" target="_blank">Telegram</a>
+- E-Mail: saitberkey@gmail.com
+- <a href="https://t.me/saitberki" target="_blank">Telegram: https://t.me/saitberki</a>
 <center>
 <a href="https://www.freecounterstat.com" title="free hit counter"><img src="https://counter11.optistats.ovh/private/freecounterstat.php?c=fag9hp94aa84ruq1dy528zy1gemahwd1" border="0" title="free hit counter" alt="free hit counter"></a></center>
 <hr>
