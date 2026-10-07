@@ -4,26 +4,26 @@
 - <span style="background-color: black;"><font color="white">Examples of Architectural Technical Drawings </font></span>
 - <span style="background-color: black;"><font color="white">1xFloor, 4xSection, 4xFront, 1/50 Scale, <u><b><i>Autocad</i></b></u> </font></span>
 <br><br>
-<a href="https://github.com/saitberki/Berki-Architectural/blob/main/1-Plan.png?raw=true" target="_blank">
- <img src="https://github.com/saitberki/Berki-Architectural/blob/main/1-Plan.png?raw=true" alt="Plan Çizimi" width="182px" height="128px">
+<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Architectural%20PNG/Plan.png?raw=true" target="_blank">
+ <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Architectural%20PNG/Plan.png?raw=true" alt="Plan Çizimi" width="182px" height="128px">
 <br>
-<a href="https://github.com/saitberki/Berki-Architectural/blob/main/2-A-A%20Kesiti.png?raw=true" target="_blank">
- <img src="https://github.com/saitberki/Berki-Architectural/blob/main/2-A-A%20Kesiti.png?raw=true" alt="A-A Kesiti Çizimi" width="182px" height="128px">
-<a href="https://github.com/saitberki/Berki-Architectural/blob/main/3-B-B%20Kesiti.png?raw=true" target="_blank">
- <img src="https://github.com/saitberki/Berki-Architectural/blob/main/3-B-B%20Kesiti.png?raw=true" alt="B-B Kesiti Çizimi" width="182px" height="128px">
-<a href="https://github.com/saitberki/Berki-Architectural/blob/main/4-C-C%20Kesiti.png?raw=true" target="_blank">
- <img src="https://github.com/saitberki/Berki-Architectural/blob/main/4-C-C%20Kesiti.png?raw=true" alt="C-C Kesiti Çizimi" width="182px" height="128px">
-<a href="https://github.com/saitberki/Berki-Architectural/blob/main/5-D-D%20Kesiti.png?raw=true" target="_blank">
- <img src="https://github.com/saitberki/Berki-Architectural/blob/main/5-D-D%20Kesiti.png?raw=true" alt="D-D Kesiti Çizimi" width="182px" height="128px">
+<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Architectural%20PNG/A-A%20Kesiti.png?raw=true" target="_blank">
+ <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Architectural%20PNG/A-A%20Kesiti.png?raw=true" alt="A-A Kesiti Çizimi" width="182px" height="128px">
+<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Architectural%20PNG/B-B%20Kesiti.png?raw=true" target="_blank">
+ <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Architectural%20PNG/B-B%20Kesiti.png?raw=true" alt="B-B Kesiti Çizimi" width="182px" height="128px">
+<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Architectural%20PNG/C-C%20Kesiti.png?raw=true" target="_blank">
+ <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Architectural%20PNG/C-C%20Kesiti.png?raw=true" alt="C-C Kesiti Çizimi" width="182px" height="128px">
+<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Architectural%20PNG/D-D%20Kesiti.png?raw=true" target="_blank">
+ <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Architectural%20PNG/D-D%20Kesiti.png?raw=true" alt="D-D Kesiti Çizimi" width="182px" height="128px">
 <br>
-<a href="https://github.com/saitberki/Berki-Architectural/blob/main/6-%20Kuzey%20Cephesi.png?raw=true" target="_blank">
- <img src="https://github.com/saitberki/Berki-Architectural/blob/main/6-%20Kuzey%20Cephesi.png?raw=true" alt="Kuzey Cephesi Çizimi" width="182px" height="128px">
-<a href="https://github.com/saitberki/Berki-Architectural/blob/main/7-Bat%C4%B1%20Cephesi.png?raw=true" target="_blank">
- <img src="https://github.com/saitberki/Berki-Architectural/blob/main/7-Bat%C4%B1%20Cephesi.png?raw=true" alt="Batı Cephesi Çizimi" width="182px" height="128px">
-<a href="https://github.com/saitberki/Berki-Architectural/blob/main/8-G%C3%BCney%20Cephesi.png?raw=true" target="_blank">
- <img src="https://github.com/saitberki/Berki-Architectural/blob/main/8-G%C3%BCney%20Cephesi.png?raw=true" alt="Güney Cephesi Çizimi" width="182px" height="128px">
-<a href="https://github.com/saitberki/Berki-Architectural/blob/main/9-Do%C4%9Fu%20Cephesi.png?raw=true" target="_blank">
- <img src="https://github.com/saitberki/Berki-Architectural/blob/main/9-Do%C4%9Fu%20Cephesi.png?raw=true" alt="Doğu Cephesi Çizimi" width="182px" height="128px">
+<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Architectural%20PNG/Kuzey%20Cephesi.png?raw=true" target="_blank">
+ <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Architectural%20PNG/Kuzey%20Cephesi.png?raw=true" alt="Kuzey Cephesi Çizimi" width="182px" height="128px">
+<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Architectural%20PNG/Bat%C4%B1%20Cephesi.png?raw=true" target="_blank">
+ <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Architectural%20PNG/Bat%C4%B1%20Cephesi.png?raw=true" alt="Batı Cephesi Çizimi" width="182px" height="128px">
+<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Architectural%20PNG/G%C3%BCney%20Cephesi.png?raw=true" target="_blank">
+ <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Architectural%20PNG/G%C3%BCney%20Cephesi.png?raw=true" width="182px" height="128px">
+<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Architectural%20PNG/Do%C4%9Fu%20Cephesi.png?raw=true" target="_blank">
+ <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Architectural%20PNG/Do%C4%9Fu%20Cephesi.png?raw=true" width="182px" height="128px">
 <h2># Drawing of an Intermediate Floor Apartment - (Arakat Daire Çizimi)</h2>
 - <span style="background-color: black;"><font color="white">Drawing of an Intermediate Floor Apartment - <u><b><i>12.12.2023 - saitberki</i></b></u> </font></span>
 - <span style="background-color: black;"><font color="white">Examples of Interior Design Drawings </font></span>
