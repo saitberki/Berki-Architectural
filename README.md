@@ -61,8 +61,8 @@
 <hr>
 <h5># CONTACT (İLETİŞİM)</h5>
 - E-Mail: <font color="blue">saitberkey@gmail.com</font>
-- Telegram: <a href="https://t.me/saitberki" target="_blank"><font color="blue">https://t.me/saitberki/</font></a>
-- Instagram: <a href="https://www.instagram.com/saitberki/" target="_blank"><font color="blue">https://www.instagram.com/saitberki/</font></a>
+- Telegram: <a href="https://t.me/saitberki" target="_blank"><font color="blue">t.me/saitberki/</font></a>
+- Instagram: <a href="https://www.instagram.com/saitberki/" target="_blank"><font color="blue">instagram.com/saitberki/</font></a>
 <hr>
 <center>
 berki-architectural/2026<a href="https://github.com" target="_blank"><font color="blue">@github-webpage</font></a>
