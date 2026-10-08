@@ -25,9 +25,9 @@
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/Mimari%20PNG/9-Do%C4%9Fu%20Cephesi.png?raw=true" target="_blank">
  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Mimari%20PNG/9-Do%C4%9Fu%20Cephesi.png?raw=true" alt="Doğu Cephesi Çizimi" width="182px" height="128px">
  <br>
-- <span style="background-color: black;"><font color="white">Drawing of a Single-Story Building - <u><b><i>21.09.2026 - saitberki</i></b></u> </font></span>
+- <span style="background-color: black;"><font color="white">Drawing of a Single-Story Building - <u><b><i>08.10.2026 - saitberki</i></b></u> </font></span>
 - <span style="background-color: black;"><font color="white">Examples of Architectural Technical Drawings </font></span>
-- <span style="background-color: black;"><font color="white">1xFloor, 4xSection, 4xFront, 1/50 Scale, <u><b><i>Autocad</i></b></u> </font></span>
+- <span style="background-color: black;"><font color="white">Cross-Sections of Foundations, Stairs, Chimneys, Windows, and Doors Multiply Scale, <u><b><i>Autocad</i></b></u> </font></span>
 <br><br>
 - <span style="background-color: black;"><font color="white">Drawing of an Intermediate Floor Apartment - <u><b><i>12.12.2023 - saitberki</i></b></u> </font></span>
 - <span style="background-color: black;"><font color="white">Examples of Interior Design Drawings </font></span>
