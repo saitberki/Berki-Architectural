@@ -29,6 +29,17 @@
 - <span style="background-color: black;"><font color="white">Examples of Architectural Technical Drawings </font></span>
 - <span style="background-color: black;"><font color="white">Cross-Sections of Foundations, Stairs, Chimneys, Windows, and Doors Multiply Scale, <u><b><i>Autocad</i></b></u> </font></span>
 <br><br>
+<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Mimari%20Detay%20PNG/10-Temel%20Sistemi%20Kesiti.png?raw=true" target="_blank">
+ <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Mimari%20Detay%20PNG/10-Temel%20Sistemi%20Kesiti.png?raw=true" alt="Temel Sistemi Kesiti" width="180px" height="254px">
+<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Mimari%20Detay%20PNG/11-Merdiven%20Sistemi%20Kesiti.png?raw=true" target="_blank">
+ <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Mimari%20Detay%20PNG/11-Merdiven%20Sistemi%20Kesiti.png?raw=true" alt="Merdiven Sistemi Kesiti" width="180px" height="254px">
+<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Mimari%20Detay%20PNG/12-Baca%20Sistemi%20Kesiti.png?raw=true" target="_blank">
+ <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Mimari%20Detay%20PNG/12-Baca%20Sistemi%20Kesiti.png?raw=true" alt="Baca Sistemi Kesiti" width="180px" height="254px">
+<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Mimari%20Detay%20PNG/13-Pencere%20Detay%C4%B1.png?raw=true" target="_blank">
+ <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Mimari%20Detay%20PNG/13-Pencere%20Detay%C4%B1.png?raw=true" alt="Pencere Detayı" width="180px" height="254px">
+<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Mimari%20Detay%20PNG/14-Kap%C4%B1%20Detay%C4%B1.png?raw=true" target="_blank">
+ <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Mimari%20Detay%20PNG/14-Kap%C4%B1%20Detay%C4%B1.png?raw=true" alt="Kapı Detayı" width="180px" height="254px">
+<br> 
 <h2>Arakat Daire Çizimi</h2>
 - <span style="background-color: black;"><font color="white">Drawing of an Intermediate Floor Apartment - <u><b><i>12.12.2023 - saitberki</i></b></u> </font></span>
 - <span style="background-color: black;"><font color="white">Examples of Interior Design Drawings </font></span>
