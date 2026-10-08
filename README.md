@@ -29,6 +29,7 @@
 - <span style="background-color: black;"><font color="white">Examples of Architectural Technical Drawings </font></span>
 - <span style="background-color: black;"><font color="white">Cross-Sections of Foundations, Stairs, Chimneys, Windows, and Doors Multiply Scale, <u><b><i>Autocad</i></b></u> </font></span>
 <br><br>
+<h2>Arakat Daire Çizimi</h2>
 - <span style="background-color: black;"><font color="white">Drawing of an Intermediate Floor Apartment - <u><b><i>12.12.2023 - saitberki</i></b></u> </font></span>
 - <span style="background-color: black;"><font color="white">Examples of Interior Design Drawings </font></span>
 - <span style="background-color: black;"><font color="white">1xSalon, 2xRooms, 1xKitchen, 1xToilet, 1xBalcony, 1/50 Scale, <u><b><i>Autocad</i></b></u> </font></span>
